@@ -1,0 +1,38 @@
+{"timestamp": "2026-08-25T16:13:11.893157", "level": "INFO", "message": "Starting collection. Checkpoint: last_item=None, known_ids=1200, existing_output_projects=1200"}
+{"timestamp": "2026-08-25T16:13:11.894160", "level": "INFO", "message": "Loaded 1200 existing projects from output file"}
+{"timestamp": "2026-08-25T16:13:12.434618", "level": "INFO", "message": "Page 1: requesting (total collected: 1200)"}
+{"timestamp": "2026-08-25T16:13:13.761028", "level": "INFO", "message": "Skipped 20 duplicate projects"}
+{"timestamp": "2026-08-25T16:13:13.761028", "level": "INFO", "message": "All projects on this page already collected, checking for more..."}
+{"timestamp": "2026-08-25T16:13:13.761028", "level": "INFO", "message": "Page 1: got 0 new projects (total: 1200)"}
+{"timestamp": "2026-08-25T16:13:13.761028", "level": "INFO", "message": "No new projects on this page, may be at end"}
+{"timestamp": "2026-08-25T16:13:13.971098", "level": "INFO", "message": "Page 2: requesting (total collected: 1200)"}
+{"timestamp": "2026-08-25T16:13:14.467254", "level": "INFO", "message": "Skipped 20 duplicate projects"}
+{"timestamp": "2026-08-25T16:13:14.482884", "level": "INFO", "message": "All projects on this page already collected, checking for more..."}
+{"timestamp": "2026-08-25T16:13:14.482884", "level": "INFO", "message": "Page 2: got 0 new projects (total: 1200)"}
+{"timestamp": "2026-08-25T16:13:14.482884", "level": "INFO", "message": "No new projects on this page, may be at end"}
+{"timestamp": "2026-08-25T16:13:14.635115", "level": "INFO", "message": "Page 3: requesting (total collected: 1200)"}
+{"timestamp": "2026-08-25T16:13:14.982587", "level": "INFO", "message": "Skipped 20 duplicate projects"}
+{"timestamp": "2026-08-25T16:13:14.982587", "level": "INFO", "message": "All projects on this page already collected, checking for more..."}
+{"timestamp": "2026-08-25T16:13:14.982587", "level": "INFO", "message": "Page 3: got 0 new projects (total: 1200)"}
+{"timestamp": "2026-08-25T16:13:14.982587", "level": "INFO", "message": "No new projects on this page, may be at end"}
+{"timestamp": "2026-08-25T16:13:15.172010", "level": "INFO", "message": "Page 4: requesting (total collected: 1200)"}
+{"timestamp": "2026-08-25T16:13:15.460585", "level": "INFO", "message": "Skipped 20 duplicate projects"}
+{"timestamp": "2026-08-25T16:13:15.460585", "level": "INFO", "message": "All projects on this page already collected, checking for more..."}
+{"timestamp": "2026-08-25T16:13:15.460585", "level": "INFO", "message": "Page 4: got 0 new projects (total: 1200)"}
+{"timestamp": "2026-08-25T16:13:15.460585", "level": "INFO", "message": "No new projects on this page, may be at end"}
+{"timestamp": "2026-08-25T16:13:15.657843", "level": "INFO", "message": "Page 5: requesting (total collected: 1200)"}
+{"timestamp": "2026-08-25T16:13:16.020344", "level": "INFO", "message": "Skipped 20 duplicate projects"}
+{"timestamp": "2026-08-25T16:13:16.020344", "level": "INFO", "message": "All projects on this page already collected, checking for more..."}
+{"timestamp": "2026-08-25T16:13:16.020344", "level": "INFO", "message": "Page 5: got 0 new projects (total: 1200)"}
+{"timestamp": "2026-08-25T16:13:16.020344", "level": "INFO", "message": "No new projects on this page, may be at end"}
+{"timestamp": "2026-08-25T16:13:16.254969", "level": "INFO", "message": "Page 6: requesting (total collected: 1200)"}
+{"timestamp": "2026-08-25T16:13:16.599501", "level": "INFO", "message": "Skipped 20 duplicate projects"}
+{"timestamp": "2026-08-25T16:13:16.599501", "level": "INFO", "message": "All projects on this page already collected, checking for more..."}
+{"timestamp": "2026-08-25T16:13:16.599501", "level": "INFO", "message": "Page 6: got 0 new projects (total: 1200)"}
+{"timestamp": "2026-08-25T16:13:16.599501", "level": "INFO", "message": "No new projects on this page, may be at end"}
+{"timestamp": "2026-08-25T16:13:16.791998", "level": "INFO", "message": "Page 7: requesting (total collected: 1200)"}
+{"timestamp": "2026-08-25T16:13:17.348351", "level": "INFO", "message": "Skipped 20 duplicate projects"}
+{"timestamp": "2026-08-25T16:13:17.349392", "level": "INFO", "message": "All projects on this page already collected, checking for more..."}
+{"timestamp": "2026-08-25T16:13:17.349392", "level": "INFO", "message": "Page 7: got 0 new projects (total: 1200)"}
+{"timestamp": "2026-08-25T16:13:17.349392", "level": "INFO", "message": "No new projects on this page, may be at end"}
+{"timestamp": "2026-08-25T16:13:17.447572", "level": "INFO", "message": "Collection complete. Total projects: 1200"}
